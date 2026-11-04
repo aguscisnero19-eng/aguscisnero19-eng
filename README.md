@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://agustincisnero.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-agustincisnero.is--a.dev-A9B8FF?style=flat-square" alt="Portfolio"></a>
   <a href="https://mibolsillo-app.com"><img src="https://img.shields.io/badge/Mi%20Bolsillo-mibolsillo--app.com-087A55?style=flat-square" alt="Mi Bolsillo"></a>
+  <a href="https://www.linkedin.com/in/agustincisnero"><img src="https://img.shields.io/badge/LinkedIn-agustincisnero-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://wa.me/543518557521"><img src="https://img.shields.io/badge/WhatsApp-+54%20351%20855--7521-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:aguscisnero19@gmail.com"><img src="https://img.shields.io/badge/Correo-aguscisnero19%40gmail.com-A9B8FF?style=flat-square&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
